@@ -1,0 +1,37 @@
+[
+{
+	"tecnologia": [
+
+		{imagen_url: "https://www.dropbox.com/s/subjzioe7km9etg/compu_0000_Layer%204.jpg?dl=0",
+		name: "HP Touch",
+		currency: "L",
+		cost: 25000.00,
+		"description": "Computadora Portatil"
+		location: { lat: 14.7450316,lng: -88.4867637,7},
+
+		{imagen_url: "https://www.dropbox.com/s/u3wpj1ezvlws7pl/compu_0001_Layer%203.jpg?dl=0",
+		name: "Dell",
+		currency: "L",
+		cost: 40000.00,
+		description: "Computadora de escritorio"
+		location: { lat: 10.7450316,lng: -88.4867637,7},
+
+		{imagen_url: "https://www.dropbox.com/s/1s3fwyn5h4iqdyo/compu_0002_Layer%202.jpg?dl=0",
+		name: "MAC",
+		currency: "L",
+		cost: 15000.00,
+		description: "Computadora MAC"
+		location: { lat: 17.7450316,lng: -88.4867637,7},
+
+		{imagen_url: "https://www.dropbox.com/s/subjzioe7km9etg/compu_0003_Layer%204.jpg?dl=0",
+		name: "HP escritorio",
+		currency: "L",
+		cost: 12000.00,
+		description: "Computadora de escritoiro"
+		location: { lat: 15.7450316,lng: -88.4867637,7}
+
+
+
+	]
+}
+]

@@ -1,0 +1,19 @@
+<header>
+  <h1>$ocial</h1>
+</header>
+ 
+
+<img src="/imagen.png">
+<ul>
+  <li ng-repeat="task in $ctrl.tasks">
+  	<img style="max-width:300px" src="{{ task.imagen_url }}"><br>
+    <b>{{task.name}}</b>
+  </li>
+</ul>
+
+<footer>
+	
+	  <login-buttons></login-buttons>
+
+</footer>
+
